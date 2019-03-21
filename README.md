@@ -6,6 +6,6 @@ together with their MD5 checksums.
 It prints the results as a JSON object.
 
 Example usage:
-```py
+```sh
 ./gcs_md5.py example-bucket > ~/Downloads/example-bucket.json
 ```
